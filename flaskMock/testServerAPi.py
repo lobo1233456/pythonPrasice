@@ -205,7 +205,7 @@ def head():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)  # 运行程序，debug的意思是调试模式运行，可以看到请求，默认端口号是5000，可以使用port参数指定端口号
+    app.run(debug=True,port=5001)  # 运行程序，debug的意思是调试模式运行，可以看到请求，默认端口号是5000，可以使用port参数指定端口号
 
 #运行完之后会显示这样的
 # * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)

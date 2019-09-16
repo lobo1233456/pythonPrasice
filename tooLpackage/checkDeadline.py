@@ -14,11 +14,9 @@ print(data)
 link_list = re.findall(r"\"(http\:\/\/[a-zA-Z0-9\.\/]+)\"", data)
 link_list = list(set(link_list))
 
-
-
 # # 利用正则查找所有连接
 # link_list = re.findall(r"href\=\"(http\:\/\/[a-zA-Z0-9\.\/]+)\"", data)
-# link_list = ['http://www.kmstarts.com/detail/953.html','http://www.kmstarts.com/detail/9523.html','http://www.kmstarts.com/detail/9533.html']
+link_list = ['http://www.kmstarts.com/detail/953.html','http://www.kmstarts.com/detail/95233.html','http://www.kmstarts.com/detail/9533.html']
 for url in link_list:
     url = [url]
     length = len(url)
@@ -36,8 +34,6 @@ for url in link_list:
                 print('URL-->  %s' % url_result_failed[i].strip() + ' -->死链接')
             continue
         url_result_success.append(url[i])
-
     result_success_len = len(url_result_success)
-
     for i in range(0, result_success_len):
         print('URL-->  %s' % url_result_success[i].strip() + ' -->活链接')

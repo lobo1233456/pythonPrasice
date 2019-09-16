@@ -2,6 +2,7 @@
 import time
 
 import xlrd
+
 from selenium import webdriver
 # driver = webdriver.Chrome()
 # url = 'http://kk7-vip.kmstarts.com/admin/index/index.html#/admin/'
@@ -59,25 +60,20 @@ class kmstartsUrl():
         fh = open(r"../reporter/%s"%self.testfile,encoding='utf-8',mode='a')
         fh.write(msg +  self.time() + " \n")
         fh.close()
+class lalla():
+
+    def laa(self):
+        pass
 
 if __name__ == '__main__':
-    case=kmstartsUrl()
-    # url = 'http://www.kmstarts.com/detail/953.html'
-    # print(case.read())
-    # case.edit('test')
 
-    # f = open('test.txt', encoding='utf-8',mode='a')  # 打开文件
-    # data = f.read()  # 文件操作
-    # print(data)
-    # f.close()  # 关闭文件
+    import os
+    import os.path
+    from shutil import copy
+    import pysnooper
 
+    import os
 
-    mobilesetting = {'deviceName': 'iPhone 6 Plus'}
-    options = webdriver.ChromeOptions()
-    options.add_experimental_option('mobileEmulation', mobilesetting)
-    driver = webdriver.Chrome(chrome_options=options)
-    driver.set_window_size(400, 800)
-    driver.maximize_window()
-    driver.get('http://m.kmstarts.com/detail/953.html')
-    time.sleep(2)
-    driver.close()
+    os.environ["TF_CPP_MIN_LOG_LEVEL"] = '1'
+    # 默认的显示等级，显示所有信息
+    os.environ["TF_CPP_MIN_LOG_LEVEL"] = '2'

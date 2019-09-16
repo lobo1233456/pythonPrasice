@@ -1,6 +1,6 @@
 import requests
 
-url = "http://127.0.0.1:5000/pay"
+url = "http://127.0.0.1:5001/pay"
 
 querystring = {"user_id":"4444","price":"12"}
 
