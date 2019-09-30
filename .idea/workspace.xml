@@ -2,177 +2,81 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/superTest.py" line="26" />
-    <bookmark url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tempfile.py" line="44" />
+    <bookmark url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tempfile.py" line="142" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52a0a46d-672c-4a9a-a90b-a696bac888a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/test1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/strdel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorate/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorate/classmethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorate/oneStep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorate/propery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorate/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorate/timeCount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/japronto/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/japronto/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/conenct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonMagic/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonMagic/changePic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonMagic/dowloadBbying.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regexFuc/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regexFuc/beatuifulSoup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regexFuc/qta-report-wrong.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regexFuc/qta-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regexFuc/qta-report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regexFuc/test123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reporter/testReporter2019-06-19 15-09-25" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reporter/testReporter2019-06-19 15-10-46" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reporter/testReporter2019-06-19 17-39-53" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reporter/testReporter2019-06-19 17-41-07" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reporter/testReporter2019-06-19 17-50-16" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reporter/testReporter2019-06-19 17-51-35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retry/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retry/retry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retryLib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retryLib/pratise1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/timeFun/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/timeFun/time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tooLpackage/iding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uiAutocase/kamayleaMsg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uiAutocase/uitest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Click-7.0.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Click-7.0.dist-info/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Click-7.0.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Click-7.0.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Click-7.0.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Click-7.0.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-1.0.3.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-1.0.3.dist-info/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-1.0.3.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-1.0.3.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-1.0.3.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-1.0.3.dist-info/entry_points.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-1.0.3.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.15.4.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.15.4.dist-info/LICENSE.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.15.4.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.15.4.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.15.4.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.15.4.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/_bashcomplete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/_compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/_termui_impl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/_textwrap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/_unicodefun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/_winconsole.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/core.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/formatting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/globals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/termui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/testing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-1.1.0.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-1.1.0.dist-info/LICENSE.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-1.1.0.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-1.1.0.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-1.1.0.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous-1.1.0.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/_compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/encoding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/exc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/jws.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/signer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/timed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/itsdangerous/url_safe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/_compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/_internal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/_reloader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/atom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/cache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/fixers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/iterio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/lint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/profiler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/securecookie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/sessions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/contrib/wrappers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/datastructures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/console.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/repr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/FONT_LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/console.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/debugger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/less.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/more.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/source.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/ubuntu.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/tbtools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/filesystem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/formparser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/http.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/local.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/dispatcher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/http_proxy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/lint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/profiler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/proxy_fix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/middleware/shared_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/posixemulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/routing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/security.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/serving.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/testapp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/useragents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/accept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/base_request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/base_response.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/common_descriptors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/etag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/response.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wrappers/user_agent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskMock/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskMock/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskMock/testRE.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskMock/testRE.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskMock/testServerAPi.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskMock/testServerAPi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/superTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/superTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/test3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testMsgsub.py" beforeDir="false" afterPath="$PROJECT_DIR$/testMsgsub.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tooLpackage/checkDeadline.py" beforeDir="false" afterPath="$PROJECT_DIR$/tooLpackage/checkDeadline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/liubo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockChain/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockChain/test11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/51xingsheng.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/test3CHange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/.circleci/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/.pyup.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/MANIFEST.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/bumpr.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/migrations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/reports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/storages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/templates/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/timer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/webhook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/data/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/docker-compose-persistent.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/requirements/develop.pip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/requirements/install.pip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/requirements/test.pip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/example_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/services/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/services/test_crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/services/test_http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/services/test_webhook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/test_integrations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/test_storages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/test_tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/test_urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dead-links-crawler-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dead-links-crawler-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dead-links-crawler-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dead-links-crawler-master/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dead-links-crawler-master/crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dead-links-crawler-master/html_doc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dead-links-crawler-master/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dead-links-crawler-master/url_opener.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dead-links-crawler-master/www.smm.cn.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deadLInkFind/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deadLInkFind/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deadLInkFind/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deadLInkFind/crawl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deadLInkFind/requirement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deadLInkFind/urlfilter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deadfind/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorate/test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorate/test3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonMagic/changePic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonMagic/dowloadBbying.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonMagic/dowloadBbying.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uiAutocase/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/uiAutocase/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yield.py" beforeDir="false" afterPath="$PROJECT_DIR$/yield.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -183,50 +87,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/praitse.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mock.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
+        <entry file="file://$PROJECT_DIR$/crawl/test3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1364">
-              <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+            <state relative-caret-position="313">
+              <caret line="290" column="23" selection-start-line="289" selection-start-column="5" selection-end-line="290" selection-end-column="23" />
               <folding>
-                <element signature="e#0#22#0" expanded="true" />
+                <element signature="e#264#275#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crawl/test3CHange.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="208" column="16" lean-forward="true" selection-start-line="208" selection-start-column="16" selection-end-line="208" selection-end-column="16" />
+              <folding>
+                <element signature="e#264#275#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testMock.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uiAutocase/getIDJINjia.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pythonMagic/dowloadBbying.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="35" selection-end-line="21" selection-end-column="66" />
+            <state relative-caret-position="374">
+              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -235,27 +123,44 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonMagic/2019.09.16.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/crawl/FurlsWR2019.09.30.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonMagic/changePic.py">
+        <entry file="file://$PROJECT_DIR$/crawl/51xingsheng.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="195">
+              <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawl/FurlsWR2019.09.29.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawl/test2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="311" column="34" lean-forward="true" selection-start-line="311" selection-start-column="34" selection-end-line="311" selection-end-column="34" />
               <folding>
-                <element signature="e#18#31#0" expanded="true" />
+                <element signature="e#264#275#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/regexFuc/test123.py">
+        <entry file="file://$PROJECT_DIR$/tooLpackage/iding.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            <state relative-caret-position="-594">
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -264,10 +169,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tempfile.py">
+        <entry file="file://$PROJECT_DIR$/tooLpackage/checkDeadline.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-792">
-              <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+            <state relative-caret-position="-151">
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawl/test1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-410">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+              <folding>
+                <element signature="e#45#54#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -283,22 +202,47 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>wron</find>
-      <find>driver</find>
-      <find>suc</find>
-      <find>load_error</find>
-      <find>Trace</find>
-      <find>测试结</find>
-      <find>load_errors</find>
-      <find>succ</find>
-      <find>true</find>
-      <find>self.</find>
+      <find>xzklclist/</find>
+      <find>http://www.jztest.com/xzklclist/</find>
+      <find>http://www.jztest.com/xzklclist/10282.html</find>
+      <find>http://www.jztest.com/xzklclist</find>
+      <find>19</find>
+      <find>http://www.jztest.com/xzklclist/10286.html</find>
+      <find>input</find>
+      <find>rando</find>
+      <find>header</find>
+      <find>http://www.jztest.com/xzklclist/10256.html</find>
+      <find>http://www.jztest.com/ctcd/cp/?type=gz&amp;sg=2&amp;fl=6&amp;ys=2</find>
+      <find>status_code</find>
+      <find>http://www.jztest.com/xgtpclist/</find>
+      <find>这网站没有灵性</find>
+      <find>https://www.newchinalife.com</find>
+      <find>visitedUrl</find>
+      <find>unvisitedurlsempty</find>
+      <find>print</find>
+      <find>www.jztest.com/xzksjlist/9932.html</find>
+      <find>http://www.jztest.com/legal.html</find>
+      <find>getTitle</find>
+      <find>http://www.jztest.com</find>
+      <find>www.jztest.com</find>
+      <find>9932</find>
+      <find>这个网站有点东西</find>
+      <find>[</find>
+      <find>http://www.jztest.com/xzksjlist/9932.html</find>
+      <find>jztest</find>
+      <find>http://www.jztest.com/xzksjlist/9879.html</find>
+      <find>crawler</find>
     </findStrings>
     <replaceStrings>
       <replace>self.driver</replace>
+      <replace>https://www.51xinsheng.com</replace>
+      <replace>www.51xinsheng.com</replace>
+      <replace>51xinsheng</replace>
+      <replace>http://www.jztest.com</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\liubo\AppData\Local\Programs\Python\Python37\Lib\site-packages\itsdangerous-1.1.0.dist-info</dir>
+      <dir>C:\Users\liubo\PycharmProjects\test1\pythonMagic</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -314,23 +258,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/super.py" />
-        <option value="$PROJECT_DIR$/mock.py" />
-        <option value="$PROJECT_DIR$/testUnit.py" />
-        <option value="$PROJECT_DIR$/flaskMock/exampleSimply.py" />
-        <option value="$PROJECT_DIR$/testMock.py" />
-        <option value="$PROJECT_DIR$/flaskMock/re.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/test2.py" />
-        <option value="$PROJECT_DIR$/uiAutocase/getIDJINjia.py" />
-        <option value="$PROJECT_DIR$/uiAutocase/getIDJINjiaMobile.py" />
-        <option value="$PROJECT_DIR$/flaskMock/sqlConnect.py" />
-        <option value="$PROJECT_DIR$/flaskMock/test.py" />
-        <option value="$PROJECT_DIR$/pratisePython.py" />
-        <option value="$PROJECT_DIR$/praitse.py" />
-        <option value="$PROJECT_DIR$/superTest.py" />
-        <option value="$PROJECT_DIR$/yield.py" />
-        <option value="$PROJECT_DIR$/tooLpackage/checkDeadline.py" />
         <option value="$PROJECT_DIR$/flaskMock/testServerAPi.py" />
         <option value="$PROJECT_DIR$/flaskMock/testRE.py" />
         <option value="$PROJECT_DIR$/decorate/propery.py" />
@@ -344,7 +271,6 @@
         <option value="$PROJECT_DIR$/timeFun.py" />
         <option value="$PROJECT_DIR$/timeFun/time.py" />
         <option value="$PROJECT_DIR$/uiAutocase/uitest.py" />
-        <option value="$PROJECT_DIR$/uiAutocase/test.py" />
         <option value="$PROJECT_DIR$/data/strdel.py" />
         <option value="$PROJECT_DIR$/retry.py" />
         <option value="$PROJECT_DIR$/retry/retry.py" />
@@ -354,17 +280,35 @@
         <option value="$PROJECT_DIR$/retryLib/pratise1.py" />
         <option value="$PROJECT_DIR$/test4.py" />
         <option value="$PROJECT_DIR$/decorate/timeCount.py" />
-        <option value="$PROJECT_DIR$/decorate/test3.py" />
         <option value="$PROJECT_DIR$/decorate/oneStep.py" />
         <option value="$PROJECT_DIR$/flaskMock/run.py" />
         <option value="$PROJECT_DIR$/random.py" />
         <option value="$PROJECT_DIR$/random/test.py" />
         <option value="$PROJECT_DIR$/mysql/conenct.py" />
         <option value="$PROJECT_DIR$/test5.py" />
-        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tempfile.py" />
         <option value="$PROJECT_DIR$/regexFuc/test123.py" />
         <option value="$PROJECT_DIR$/pythonMagic/changePic.py" />
+        <option value="$PROJECT_DIR$/blockChain/test11.py" />
+        <option value="$PROJECT_DIR$/deadLInkFind/linkFind.py" />
+        <option value="$PROJECT_DIR$/deadLInkFind/urlfilter.py" />
+        <option value="$PROJECT_DIR$/deadLInkFind/crawl.py" />
+        <option value="$PROJECT_DIR$/dead-links-crawler-master/url_opener.py" />
+        <option value="$PROJECT_DIR$/dead-links-crawler-master/__init__.py" />
+        <option value="$PROJECT_DIR$/dead-links-crawler-master/html_doc.py" />
+        <option value="$PROJECT_DIR$/dead-links-crawler-master/crawler.py" />
+        <option value="$PROJECT_DIR$/decorate/test3.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tempfile.py" />
+        <option value="$PROJECT_DIR$/crawl/test1.py" />
+        <option value="$PROJECT_DIR$/uiAutocase/test.py" />
+        <option value="$PROJECT_DIR$/crawl/FurlsWR2019.09.27.txt" />
+        <option value="$PROJECT_DIR$/crawl/Furls.txt" />
         <option value="$PROJECT_DIR$/pythonMagic/dowloadBbying.py" />
+        <option value="$PROJECT_DIR$/crawl/FurlsWR2019.09.29.txt" />
+        <option value="$PROJECT_DIR$/crawl/test3.py" />
+        <option value="$PROJECT_DIR$/crawl/51xingsheng.py" />
+        <option value="$PROJECT_DIR$/crawl/test2.py" />
+        <option value="$PROJECT_DIR$/crawl/FurlsWR2019.09.30.txt" />
+        <option value="$PROJECT_DIR$/crawl/test3CHange.py" />
       </list>
     </option>
   </component>
@@ -375,10 +319,10 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-275" />
-    <option name="y" value="35" />
-    <option name="width" value="1936" />
-    <option name="height" value="733" />
+    <option name="x" value="-7" />
+    <option name="y" value="-7" />
+    <option name="width" value="1295" />
+    <option name="height" value="695" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -388,7 +332,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -399,12 +342,17 @@
             <path>
               <item name="test1" type="b2602c69:ProjectViewProjectNode" />
               <item name="test1" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonMagic" type="462c0819:PsiDirectoryNode" />
+              <item name="crawl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test1" type="b2602c69:ProjectViewProjectNode" />
               <item name="test1" type="462c0819:PsiDirectoryNode" />
-              <item name="regexFuc" type="462c0819:PsiDirectoryNode" />
+              <item name="deadfind" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonMagic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test1" type="b2602c69:ProjectViewProjectNode" />
@@ -420,22 +368,23 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/QT4WDemoProj-master" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/crawl" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\liubo\PycharmProjects\test1\crawl" />
+      <recent name="C:\Users\liubo\PycharmProjects\test1" />
+      <recent name="C:\Users\liubo\PycharmProjects\test1\deadLInkFind" />
       <recent name="C:\Users\liubo\PycharmProjects\test1\timeFun" />
       <recent name="C:\Users\liubo\PycharmProjects\test1\regexFuc" />
-      <recent name="C:\Users\liubo\PycharmProjects\test1\uiAutocase" />
-      <recent name="C:\Users\liubo\PycharmProjects\test1\data" />
-      <recent name="C:\Users\liubo\PycharmProjects\test1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\liubo\PycharmProjects\test1\data" />
@@ -455,6 +404,28 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.dowloadBbying">
+    <configuration name="51xingsheng" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl/51xingsheng.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="dowloadBbying" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -477,7 +448,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test123" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -485,12 +456,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regexFuc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawl" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regexFuc/test123.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl/test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -499,7 +470,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -507,12 +478,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawl" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl/test3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -521,7 +492,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="yield" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test3CHange" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -529,42 +500,27 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawl" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yield.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl/test3CHange.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for test5.AppDynamicsJob" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="test1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test5.AppDynamicsJob&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.dowloadBbying" />
-        <item itemvalue="Python.test123" />
-        <item itemvalue="Python.test5" />
-        <item itemvalue="Python.yield" />
-        <item itemvalue="Python tests.Unittests for test5.AppDynamicsJob" />
+        <item itemvalue="Python.test3CHange" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.51xingsheng" />
+        <item itemvalue="Python.test3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -601,7 +557,11 @@
       <workItem from="1567676720940" duration="5151000" />
       <workItem from="1567733623966" duration="4724000" />
       <workItem from="1568256104587" duration="599000" />
-      <workItem from="1568598210957" duration="1579000" />
+      <workItem from="1568598210957" duration="9204000" />
+      <workItem from="1568872203343" duration="578000" />
+      <workItem from="1569201602012" duration="9909000" />
+      <workItem from="1569494474867" duration="3269000" />
+      <workItem from="1569497766101" duration="57354000" />
     </task>
     <task id="LOCAL-00001" summary="我不知道试用期是否能过，也担心在这里呆着浪费时间">
       <created>1561022397875</created>
@@ -610,7 +570,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561022397875</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pythonMagic byingpic dowloand">
+      <created>1568599953356</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568599953356</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -646,7 +613,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="329886000" />
+    <option name="totallyTimeSpent" value="408621000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -658,15 +625,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21215352" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.116204694" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.497979" visible="true" weight="0.28524947" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49626866" visible="true" weight="0.31344903" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39696312" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -674,7 +641,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502021" side_tool="true" weight="0.47957373" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50373137" side_tool="true" weight="0.39045554" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32858709" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32858709" />
       <window_info anchor="bottom" id="SVN Repositories" order="13" sideWeight="0.49946696" weight="0.3286334" />
@@ -685,12 +652,12 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21215352" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21641791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.497979" visible="true" weight="0.28524947" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733475" visible="true" weight="0.27006507" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39696312" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -698,7 +665,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502021" side_tool="true" weight="0.47957373" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026652" side_tool="true" weight="0.27114967" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32858709" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32858709" />
       <window_info anchor="bottom" id="SVN Repositories" order="13" sideWeight="0.49946696" weight="0.3286334" />
@@ -714,7 +681,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="我不知道试用期是否能过，也担心在这里呆着浪费时间" />
-    <option name="LAST_COMMIT_MESSAGE" value="我不知道试用期是否能过，也担心在这里呆着浪费时间" />
+    <MESSAGE value="pythonMagic byingpic dowloand" />
+    <option name="LAST_COMMIT_MESSAGE" value="pythonMagic byingpic dowloand" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -734,12 +702,37 @@
           <line>47</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pythonMagic/dowloadBbying.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/crawl/test2.py</url>
+          <line>206</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/uiAutocase/test.py</url>
+          <line>211</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/crawl/test3.py</url>
+          <line>292</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="read.encoding" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/test1$1_2_FirstStep.coverage" NAME="1.2 FirstStep Coverage Results" MODIFIED="1560254126090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/django" />
-    <SUITE FILE_PATH="coverage/test1$tempfile.coverage" NAME="tempfile Coverage Results" MODIFIED="1567513418356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" />
+    <SUITE FILE_PATH="coverage/test1$tempfile.coverage" NAME="tempfile Coverage Results" MODIFIED="1569500842389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" />
     <SUITE FILE_PATH="coverage/test1$Unittests_for_test5_AppDynamicsJob.coverage" NAME="Unittests for test5.AppDynamicsJob Coverage Results" MODIFIED="1567677084873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test1$Unittests_for_kamayleaMsg_AppDynamicsJob.coverage" NAME="Unittests for kamayleaMsg.AppDynamicsJob Coverage Results" MODIFIED="1564986442995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uiAutocase" />
     <SUITE FILE_PATH="coverage/test1$iding.coverage" NAME="iding Coverage Results" MODIFIED="1565169657480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tooLpackage" />
@@ -753,14 +746,16 @@
     <SUITE FILE_PATH="coverage/test1$test123.coverage" NAME="test123 Coverage Results" MODIFIED="1568599067252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexFuc" />
     <SUITE FILE_PATH="coverage/test1$praitse.coverage" NAME="praitse Coverage Results" MODIFIED="1561021439020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test1$Unittests_for_testUnit_MockLoginTest_test_login.coverage" NAME="Unittests for testUnit.MockLoginTest.test_login Coverage Results" MODIFIED="1560906948395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test1$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1567412491360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorate" />
+    <SUITE FILE_PATH="coverage/test1$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1569487323804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorate" />
     <SUITE FILE_PATH="coverage/test1$testRE.coverage" NAME="testRE Coverage Results" MODIFIED="1561097132502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flaskMock" />
     <SUITE FILE_PATH="coverage/test1$propery.coverage" NAME="propery Coverage Results" MODIFIED="1561102170232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorate" />
     <SUITE FILE_PATH="coverage/test1$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1565233458490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexFuc" />
+    <SUITE FILE_PATH="coverage/test1$test3__1_.coverage" NAME="test3 (1) Coverage Results" MODIFIED="1569719975807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
     <SUITE FILE_PATH="coverage/test1$oneStep.coverage" NAME="oneStep Coverage Results" MODIFIED="1567415810255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorate" />
     <SUITE FILE_PATH="coverage/test1$yield.coverage" NAME="yield Coverage Results" MODIFIED="1567761547877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test1$thearding.coverage" NAME="thearding Coverage Results" MODIFIED="1561023200962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test1$Unittests_in_testUnit_py.coverage" NAME="Unittests in testUnit.py Coverage Results" MODIFIED="1560907083405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test1$crawl.coverage" NAME="crawl Coverage Results" MODIFIED="1569486345793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deadLInkFind" />
     <SUITE FILE_PATH="coverage/test1$run.coverage" NAME="run Coverage Results" MODIFIED="1561096682316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flaskMock" />
     <SUITE FILE_PATH="coverage/test1$timeCount.coverage" NAME="timeCount Coverage Results" MODIFIED="1567405053456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorate" />
     <SUITE FILE_PATH="coverage/test1$pratise1.coverage" NAME="pratise1 Coverage Results" MODIFIED="1567152105452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/retryLib" />
@@ -771,9 +766,11 @@
     <SUITE FILE_PATH="coverage/test1$pratisePython.coverage" NAME="pratisePython Coverage Results" MODIFIED="1561097266616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test1$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1567156279212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test1$checkDeadline.coverage" NAME="checkDeadline Coverage Results" MODIFIED="1564562041112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tooLpackage" />
+    <SUITE FILE_PATH="coverage/test1$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1569553105682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
     <SUITE FILE_PATH="coverage/test1$Unittests_in_kamayleaMsg_py.coverage" NAME="Unittests in kamayleaMsg.py Coverage Results" MODIFIED="1564984429152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uiAutocase" />
     <SUITE FILE_PATH="coverage/test1$webSaasAutoUI.coverage" NAME="webSaasAutoUI Coverage Results" MODIFIED="1557910146696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test1$test.coverage" NAME="test Coverage Results" MODIFIED="1567510290502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random" />
+    <SUITE FILE_PATH="coverage/test1$test.coverage" NAME="test Coverage Results" MODIFIED="1569555039040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uiAutocase" />
+    <SUITE FILE_PATH="coverage/test1$test11.coverage" NAME="test11 Coverage Results" MODIFIED="1568613172806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blockChain" />
     <SUITE FILE_PATH="coverage/test1$chatbot.coverage" NAME="chatbot Coverage Results" MODIFIED="1565168982222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/dingtalkchatbot" />
     <SUITE FILE_PATH="coverage/test1$beatuifulSoup.coverage" NAME="beatuifulSoup Coverage Results" MODIFIED="1565232568365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexFuc" />
     <SUITE FILE_PATH="coverage/test1$re.coverage" NAME="re Coverage Results" MODIFIED="1560915462517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flaskMock" />
@@ -783,200 +780,168 @@
     <SUITE FILE_PATH="coverage/test1$getIDJINjia.coverage" NAME="getIDJINjia Coverage Results" MODIFIED="1560937263235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uiAutocase" />
     <SUITE FILE_PATH="coverage/test1$Unittests_for_kamayleaMsg_AppDynamicsJob_test_app_dynamics_job.coverage" NAME="Unittests for kamayleaMsg.AppDynamicsJob.test_app_dynamics_job Coverage Results" MODIFIED="1564984386713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uiAutocase" />
     <SUITE FILE_PATH="coverage/test1$sqlConnect.coverage" NAME="sqlConnect Coverage Results" MODIFIED="1561009568930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flaskMock" />
+    <SUITE FILE_PATH="coverage/test1$test3CHange.coverage" NAME="test3CHange Coverage Results" MODIFIED="1569833500193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
     <SUITE FILE_PATH="coverage/test1$strdel.coverage" NAME="strdel Coverage Results" MODIFIED="1566177509173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
     <SUITE FILE_PATH="coverage/test1$super.coverage" NAME="super Coverage Results" MODIFIED="1561028800328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test1$api.coverage" NAME="api Coverage Results" MODIFIED="1566976401668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/japronto" />
-    <SUITE FILE_PATH="coverage/test1$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1558596670725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test1$classmethod.coverage" NAME="classmethod Coverage Results" MODIFIED="1561111177511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorate" />
+    <SUITE FILE_PATH="coverage/test1$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1569833052290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
     <SUITE FILE_PATH="coverage/test1$superTest.coverage" NAME="superTest Coverage Results" MODIFIED="1561023299956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test1$dowloadBbying.coverage" NAME="dowloadBbying Coverage Results" MODIFIED="1568599707623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonMagic" />
+    <SUITE FILE_PATH="coverage/test1$dowloadBbying.coverage" NAME="dowloadBbying Coverage Results" MODIFIED="1569835597740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonMagic" />
     <SUITE FILE_PATH="coverage/test1$exampleSimply.coverage" NAME="exampleSimply Coverage Results" MODIFIED="1560911462632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flaskMock" />
     <SUITE FILE_PATH="coverage/test1$testSubmti.coverage" NAME="testSubmti Coverage Results" MODIFIED="1560915156454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test1$51xingsheng.coverage" NAME="51xingsheng Coverage Results" MODIFIED="1569752169334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
     <SUITE FILE_PATH="coverage/test1$PythonwxTest.coverage" NAME="PythonwxTest Coverage Results" MODIFIED="1560851955061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/japronto/api.py">
+    <entry file="file://$PROJECT_DIR$/dead-links-crawler-master/crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="67" selection-start-line="18" selection-end-line="19" selection-end-column="67" />
+        <state relative-caret-position="506">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <element signature="e#99#109#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/retry/retry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pysnooper/tracer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4686">
-          <caret line="226" selection-start-line="226" selection-end-line="226" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flaskMock/test.py">
+    <entry file="file://$PROJECT_DIR$/croquemort-master/requirements/develop.pip">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/flaskMock/testRE.py">
+    <entry file="file://$PROJECT_DIR$/croquemort-master/requirements/test.pip">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/croquemort-master/requirements/install.pip">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/retryLib.py" />
-    <entry file="file://$PROJECT_DIR$/retry.py" />
-    <entry file="file://$PROJECT_DIR$/flaskMock/testServerAPi.py">
+    <entry file="file://$PROJECT_DIR$/croquemort-master/croquemort/crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1540">
-          <caret line="74" column="36" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
+        <state relative-caret-position="-150">
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/croquemort-master/croquemort/tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1888">
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/croquemort-master/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1866">
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/croquemort-master/setup.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/croquemort-master/docker-compose-persistent.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/croquemort-master/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/croquemort-master/croquemort/storages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3010">
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/croquemort-master/croquemort/migrations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3164">
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/croquemort-master/croquemort/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/croquemort-master/croquemort/http.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/croquemort-master/croquemort/decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/croquemort-master/tests/test_urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1030">
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/croquemort-master/tests/test_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2306">
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/croquemort-master/tests/test_storages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/croquemort-master/tests/utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/croquemort-master/tests/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-722">
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/retryLib/pratise1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1716">
-          <caret line="82" column="15" selection-start-line="82" selection-start-column="15" selection-end-line="82" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/croquemort-master/croquemort/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/gevent/testing/leakcheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="15" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4576">
-          <caret line="217" column="15" selection-start-line="217" selection-start-column="8" selection-end-line="217" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/tenacity/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5192">
-          <caret line="291" selection-start-line="291" selection-end-line="291" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="84" column="12" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorate/propery.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorate/classmethod.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorate/timeCount.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="108" column="20" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorate/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorate/oneStep.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tryExcept.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="6" selection-start-line="3" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uiAutocase/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="78" column="18" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
-          <folding>
-            <element signature="e#24#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flaskMock/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/random.py" />
-    <entry file="file://$PROJECT_DIR$/data/strdel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/firefox/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1034">
-          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5302">
-          <caret line="241" selection-start-line="241" selection-end-line="241" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/firefox/webelement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webelement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2178">
-          <caret line="109" column="34" selection-start-line="109" selection-start-column="34" selection-end-line="109" selection-end-column="34" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/croquemort-master/.circleci/config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/testMsgsub.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -987,55 +952,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/conenct.py">
+    <entry file="file://$PROJECT_DIR$/uiAutocase/webSaasAutoMobileUI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+        <state>
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#22#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/random/test.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="177">
+          <caret line="389" selection-start-line="389" selection-end-line="389" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+    <entry file="file://$PROJECT_DIR$/testUnit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="486" column="17" selection-start-line="486" selection-start-column="17" selection-end-line="486" selection-end-column="17" />
+        <state relative-caret-position="465">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yield.py">
+    <entry file="file://$PROJECT_DIR$/test3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiAutocase/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tempfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="182">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test5.py">
+    <entry file="file://$PROJECT_DIR$/uiAutocase/result.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/sessions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="175">
+          <caret line="369" selection-start-line="369" selection-end-line="369" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="809" selection-start-line="809" selection-end-line="809" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/structures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/tldextract/tldextract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="236" selection-start-line="236" selection-end-line="236" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorate/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="165" column="23" selection-start-line="165" selection-start-column="23" selection-end-line="165" selection-end-column="23" />
+          <folding>
+            <element signature="e#40#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="1056" selection-start-line="1056" selection-end-line="1056" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiAutocase/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3190">
+          <caret line="145" selection-start-line="145" selection-end-line="145" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/FurlsWR2019.09.27.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="352" selection-start-line="352" selection-end-line="352" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/Furls.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/tooLpackage/iding.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        <state relative-caret-position="-594">
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -1044,108 +1081,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tooLpackage/checkDeadline.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        <state relative-caret-position="-151">
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uiAutocase/webSaasAutoUI.py">
+    <entry file="file://$PROJECT_DIR$/crawl/51xingsheng.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="195">
+          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="290" column="23" selection-start-line="289" selection-start-column="5" selection-end-line="290" selection-end-column="23" />
           <folding>
-            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#264#275#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uiAutocase/webSaasAutoMobileUI.py">
+    <entry file="file://$PROJECT_DIR$/crawl/FurlsWR2019.09.29.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-410">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
           <folding>
-            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#45#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uiAutocase/webSaasPressure.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pratisePython.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/praitse.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mock.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/crawl/test2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1364">
-          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+        <state relative-caret-position="316">
+          <caret line="311" column="34" lean-forward="true" selection-start-line="311" selection-start-column="34" selection-end-line="311" selection-end-column="34" />
           <folding>
-            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#264#275#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testMock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/regexFuc/beatuifulSoup.py">
+    <entry file="file://$PROJECT_DIR$/crawl/FurlsWR2019.09.30.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uiAutocase/getIDJINjia.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tempfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-792">
-          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/regexFuc/test123.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonMagic/2019.09.16.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonMagic/changePic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="13" />
-          <folding>
-            <element signature="e#18#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonMagic/dowloadBbying.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="35" selection-end-line="21" selection-end-column="66" />
+        <state relative-caret-position="374">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/test3CHange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="208" column="16" lean-forward="true" selection-start-line="208" selection-start-column="16" selection-end-line="208" selection-end-column="16" />
+          <folding>
+            <element signature="e#264#275#0" expanded="true" />
           </folding>
         </state>
       </provider>

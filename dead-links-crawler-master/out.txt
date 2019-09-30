@@ -1,0 +1,11 @@
+http://news.smm.cn/l/92/pid/30.html,http://news.smm.cn/l/al/pid/30.html
+http://news.smm.cn/Public/js/jquery-1.10.2.js,http://news.smm.cn/Public/js#
+http://news.smm.cn/Public/js/jquery-1.10.2.js,http://news.smm.cn/a
+http://news.smm.cn/Public/js/page.js,http://news.smm.cn/Public/js'+site+'inc/sign_in.php?referer='+url+'
+http://news.smm.cn/Public/js/page.js,http://news.smm.cn/Public/js"+uri+"research/
+http://news.smm.cn/l/al.html,http://news.smm.cn/ljavascript:void(0);
+http://news.smm.cn/l/80/pidjavascript:void(0);,http://news.smm.cn/l/80javascript:void(0);
+http://news.smm.cn/l/80/pid/22.html,http://news.smm.cn/l/al/pid/22.html
+http://news.smm.cn/l/vp/pid/22.html,http://news.smm.cn/l/vp/pid/21.html
+http://news.smm.cn/l/vp/pid/23.html,http://news.smm.cn/l/al/pid/23.html
+http://news.smm.cn/l/al/pid/27.html,http://news.smm.cn/l/01/pid/27.html
