@@ -9,6 +9,7 @@ question:1.当前url若爬取到的pagelinks为[]，则将其移除visited列表
          5.过期网站，垃圾网站
 """
 import json
+import os
 import re
 import time
 import requests
@@ -26,7 +27,7 @@ kv = {
 # 此测试首页是否可以链接
 def url_get(num_retries=5):
     #    url = input("请输入要爬取的首页url:")
-    url = "http://www.jztest.com/xzksjlist"
+    url = "http://www.jztest.com"
     #    url = "http://"
     try:
         # 做一个user-agent模拟浏览器发送请求,也可以加入其它字段
@@ -67,19 +68,19 @@ def spiderpage(url):
 # 此函数用来检测链接是否为外网链接或者不合格链接
 # 外网链接不应该被发送至dingding，只发送死链接
 # 判断依据为title是404页面
+
 def getTitle(url):
     # 检验是否为本站链接，防止死循环爬取，如链接跳出本站则不进行操作
     headers = {
-               'HOST': "www.jztest.com",
-               'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36',
-               }
+        'HOST': "www.jztest.com",
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36',
+    }
     print(url)
-    req = request.Request(url, headers=headers)
-    html = None
     try:
-        response = request.urlopen(req)
-        html = response.read().decode('utf-8')
-        soup = BeautifulSoup(html, "html.parser")
+        html = requests.get(url)
+        if html.status_code == 200 and re.findall("png|jpg$", url):
+            return "图片文件"
+        soup = BeautifulSoup(html.content.decode('utf-8'), "html.parser")
         if soup.body is not None:
             url_list = soup.head.title
             title = url_list.string
@@ -87,16 +88,14 @@ def getTitle(url):
             if title != None:
                 return title
             else:
-                return "这网站没有灵性"
-        else:
-            title = "不可加载"
-            return title
-        #    except error.URLError or error.HTTPError or error.UnicodeDecodeError:
+                return "这网站没有灵性1"
+        # except :
+        #        if html.status_code == 200:return "404页面"
     except:
-        enp = requests.get(url, headers=kv)
-        if enp.status_code != 200 and 'jztest' in url:
+
+        if 'jztest' in url:
             dingTalkSend(url)
-            file = open('FurlsWR%s.txt' % time.strftime("%Y.%m.%d"), 'a', encoding='utf8')
+            file = open('jztest%s.txt' % time.strftime("%Y.%m.%d"), 'a', encoding='utf8')
             file.write(f'{url}\n')
             print("这网站没有灵性")
             return "不可加载"
@@ -106,7 +105,6 @@ def getTitle(url):
 
 def url_filtrate(pagelinks):
     same_target_url = []
-
     try:
         for murl in pagelinks:
             murl = re.sub(r'\s+', '', murl)
@@ -115,37 +113,77 @@ def url_filtrate(pagelinks):
                                                                                                                murl) or re.findall(
                     "^login", murl) or re.findall("css$", murl) or re.findall("@", murl):
                 pagelinks.remove(murl)
+            #
+            # elif re.findall("^http", murl) and re.findall("newchinalife", murl) is None:
+            #     pagelinks.remove(murl)
 
-            elif re.findall("^http", murl) and re.findall("newchinalife", murl) is None:
-                pagelinks.remove(murl)
-
-            elif re.findall("^http", murl):
+            elif len(re.findall("^http", murl)) != 0:
                 murl = str(murl)
                 same_target_url.append(murl)
-
+                continue
             elif re.findall("^java", murl) or re.findall("^jse", murl) or re.findall("^ALL", murl) or re.findall("pdf$",
                                                                                                                  murl) or re.findall(
                     "^login", murl):
                 pagelinks.remove(murl)
 
-            elif re.findall("gsp$", murl) or re.findall("shtml$", murl) or re.findall("[0-9]*$", murl):
-                murl = "http://www.jztest.com" + str(murl)
+            elif len(re.findall("gsp$", murl))!= 0 or len(re.findall("[0-9]$", murl)) != 0:
+                print(len(re.findall("[0-9]$", murl)) != 0)
+                print(re.findall("gsp$", murl)!= 0)
+                murl = str(murl)
                 same_target_url.append(murl)
-
-            elif re.findall("^/", murl):
-                murl = "http://www.jztest.com" + str(murl)
-                same_target_url.append(murl)
+                pass
+            #
+            #
+            elif re.findall("shtml$", murl) is not None or len(re.findall("^//", murl))!=0:
+                base = "https://www.jztest.com/"
+                # for i in pagelinks:
+                try:
+                    second_path = re.findall("//(.*?).jztest.com/", murl)
+                    if "/kf5fyw.shtml" in murl:
+                        murl = base + second_path[0] + "/kf5fyw.shtml"
+                        same_target_url.append(murl)
+                    elif "/6auh1i.shtml" in murl:
+                        murl = base + second_path[0] + "/kf5fyw.shtml"
+                        same_target_url.append(murl)
+                    elif "/wzzq/" in murl and "com/wzzq/" not in murl:
+                        enp = re.findall("com/(.*?)/wzzq/(.*)", murl)
+                        murl = base + "project/" + second_path[0] + "/" + enp[0][0] + "/wzzq/" + enp[0][1]
+                        same_target_url.append(murl)
+                    elif "com/wzzq/" in murl:
+                        enp = re.findall("com/wzzq/(.*)", murl)
+                        murl = base + second_path[0] + "/wzzq/" + enp[0]
+                        same_target_url.append(murl)
+                    elif "/article/" in murl:
+                        enp = re.findall("/article/(.*)", murl)
+                        murl = base + "article/" + second_path[0] + "/" + enp[0]
+                        same_target_url.append(murl)
+                    elif ".shtml" in murl and "/kf5fyw.shtml" not in murl and "/6auh1i.shtml" not in murl and '/' in str(
+                            re.findall("com/(.*?).shtml", murl)):
+                        enp = re.findall("com/(.*\.shtml)$", murl)
+                        # print(murl,enp)
+                        murl = base + "project/" + second_path[0] + "/" + enp[0]
+                        same_target_url.append(murl)
+                    elif "//www.jztest.com" == murl:
+                        murl = base
+                        same_target_url.append(murl)
+                    else:
+                        print("意外"+murl)
+                        enp = re.findall("com/(.*)", murl)
+                        murl = base + second_path[0] + "/" + enp[0]
+                        same_target_url.append(murl)
+                except ValueError as e:
+                    pass
 
             else:
                 pass
     except ValueError as e:
         pass
     # 去除重复url
-    unrepect_url = []
-    for l in same_target_url:
-        if l not in unrepect_url:
-            unrepect_url.append(l)
-
+    # unrepect_url = []
+    unrepect_url = list(set(same_target_url))
+    # for l in same_target_url:
+    #     if l not in unrepect_url:
+    #         unrepect_url.append(l)
     # print(unrepect_url)
     return unrepect_url
 
@@ -249,7 +287,7 @@ class Spider():
         # visitedurl可以作为出现死链的地址
         x = 1
         error, source, ThescondLIne,errorNew = [], [], [], []
-        while  self.linkQuence.unvisited or x == urlcount:
+        while   x<100 and self.linkQuence.unvisited or x == urlcount:
 
             # visitedurl_key, initial_links_values = [], []
             # 若子页面不是很多,可以直接使用队列中的未访问列表非空作为循环条件
@@ -295,7 +333,7 @@ class Spider():
                 self.linkQuence.addvisitedurl(visitedurl)  # 将该url放到访问过的url队列中
                 for link in right_links:  # 将筛选出的链接放到未访问队列中
                     self.linkQuence.addunvisitedurl(link)
-                x += 1
+            x += 1
             # else:
             #     pass
 
@@ -303,20 +341,23 @@ class Spider():
 
 
         print(f"爬完了")
+        if len(error) !=0:
+            for errorline in error:
+                wrongSecondLine = [i for i, x in enumerate(ThescondLIne) if errorline in x]
+                # errorNew.append(error[j])
+                # 筛选扫出错误地址的一级地址.
+                wrongSource = []
+                for i in wrongSecondLine:
+                    wrongSource.append(source[i])
+                # print(D)
+                # 记录错误的地址，和他的一级地址
+                strmsg = "死链：%s  的所有上级目录" % errorline, wrongSource
+                dingTalkSend(strmsg)
 
-        wrongSecondLine = [i for i, x in enumerate(ThescondLIne) if error[0] in x]
-        errorNew.append(error[0])
-        # 筛选扫出错误地址的一级地址.
-        wrongSource = []
-        for i in wrongSecondLine:
-            wrongSource.append(source[i])
-        # print(D)
-        # 记录错误的地址，和他的一级地址
-        strmsg = "%s  -->" % error[0], wrongSource
-        dingTalkSend(strmsg)
-        file = open('FurlsWR%s.txt' % self.local, 'a', encoding='utf8')
-        file.write(f'{strmsg}\n')
-        file.close()
+                file = open('FurlsWR%s.txt' % self.local, 'a', encoding='utf8')
+                file.write(f'{strmsg}\n')
+                file.close()
+
         return self.linkQuence.visited
 
 def dingTalkSend(content):

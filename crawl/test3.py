@@ -289,8 +289,11 @@ def writetofile(urllist):
 
 # 主循环
 if __name__ == '__main__':
-    url = url_get()
-    spider = Spider(url)
-    # 传入要爬取的子链接数量
-    urllist = spider.crawler(5000)
-    writetofile(urllist)
+    # url = url_get()
+    # spider = Spider(url)
+    # # 传入要爬取的子链接数量
+    # urllist = spider.crawler(5000)
+    # writetofile(urllist)
+
+    initial_links = spiderpage("https://www.kmway.com")
+    print(initial_links)

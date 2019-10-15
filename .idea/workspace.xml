@@ -6,77 +6,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52a0a46d-672c-4a9a-a90b-a696bac888a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/liubo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockChain/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockChain/test11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawl/51xingsheng.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawl/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawl/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawl/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawl/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawl/test3CHange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/.circleci/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/.pyup.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/MANIFEST.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/bumpr.rc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/crawler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/http.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/migrations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/reports.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/storages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/templates/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/timer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/croquemort/webhook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/data/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/docker-compose-persistent.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/requirements/develop.pip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/requirements/install.pip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/requirements/test.pip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/example_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/services/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/services/test_crawler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/services/test_http.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/services/test_webhook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/test_integrations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/test_storages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/test_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/test_urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/croquemort-master/tests/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dead-links-crawler-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dead-links-crawler-master/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dead-links-crawler-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dead-links-crawler-master/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dead-links-crawler-master/crawler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dead-links-crawler-master/html_doc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dead-links-crawler-master/out.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dead-links-crawler-master/url_opener.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dead-links-crawler-master/www.smm.cn.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deadLInkFind/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deadLInkFind/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deadLInkFind/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deadLInkFind/crawl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deadLInkFind/requirement.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deadLInkFind/urlfilter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deadfind/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/1616line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/jcjm88.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/jm175Line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/kmsayLine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phoneNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decorate/test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorate/test3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonMagic/changePic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonMagic/dowloadBbying.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonMagic/dowloadBbying.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uiAutocase/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/uiAutocase/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl/51xingsheng.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawl/51xingsheng.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawl/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawl/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl/test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawl/test3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl/test3CHange.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawl/test3CHange.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,13 +29,70 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawl/test3.py">
+        <entry file="file://$PROJECT_DIR$/crawl/kmsayLine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="290" column="23" selection-start-line="289" selection-start-column="5" selection-end-line="290" selection-end-column="23" />
+            <state relative-caret-position="372">
+              <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
               <folding>
                 <element signature="e#264#275#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawl/51xingsheng.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2332">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phoneNumber.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-264">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#2#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawl/jcjm88.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawl/1616line.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="354" selection-start-line="354" selection-end-line="359" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawl/1616n2019.10.15.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="73" selection-start-line="73" selection-end-line="73" />
             </state>
           </provider>
         </entry>
@@ -101,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/crawl/test3CHange.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="208" column="16" lean-forward="true" selection-start-line="208" selection-start-column="16" selection-end-line="208" selection-end-column="16" />
+            <state relative-caret-position="304">
+              <caret line="119" column="53" lean-forward="true" selection-start-line="119" selection-start-column="53" selection-end-line="119" selection-end-column="53" />
               <folding>
                 <element signature="e#264#275#0" expanded="true" />
               </folding>
@@ -111,81 +110,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonMagic/dowloadBbying.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawl/FurlsWR2019.09.30.txt">
+        <entry file="file://$PROJECT_DIR$/crawl/FurlsWR2019.10.15.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawl/51xingsheng.py">
+        <entry file="file://$PROJECT_DIR$/crawl/jm175Line.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawl/FurlsWR2019.09.29.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawl/test2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="311" column="34" lean-forward="true" selection-start-line="311" selection-start-column="34" selection-end-line="311" selection-end-column="34" />
+            <state relative-caret-position="553">
+              <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
               <folding>
                 <element signature="e#264#275#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tooLpackage/iding.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-594">
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tooLpackage/checkDeadline.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-151">
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawl/test1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-410">
-              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-              <folding>
-                <element signature="e#45#54#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -202,43 +137,51 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>xzklclist/</find>
-      <find>http://www.jztest.com/xzklclist/</find>
-      <find>http://www.jztest.com/xzklclist/10282.html</find>
-      <find>http://www.jztest.com/xzklclist</find>
-      <find>19</find>
-      <find>http://www.jztest.com/xzklclist/10286.html</find>
-      <find>input</find>
-      <find>rando</find>
-      <find>header</find>
-      <find>http://www.jztest.com/xzklclist/10256.html</find>
-      <find>http://www.jztest.com/ctcd/cp/?type=gz&amp;sg=2&amp;fl=6&amp;ys=2</find>
-      <find>status_code</find>
-      <find>http://www.jztest.com/xgtpclist/</find>
-      <find>这网站没有灵性</find>
-      <find>https://www.newchinalife.com</find>
-      <find>visitedUrl</find>
-      <find>unvisitedurlsempty</find>
-      <find>print</find>
-      <find>www.jztest.com/xzksjlist/9932.html</find>
-      <find>http://www.jztest.com/legal.html</find>
-      <find>getTitle</find>
-      <find>http://www.jztest.com</find>
-      <find>www.jztest.com</find>
       <find>9932</find>
-      <find>这个网站有点东西</find>
       <find>[</find>
       <find>http://www.jztest.com/xzksjlist/9932.html</find>
       <find>jztest</find>
-      <find>http://www.jztest.com/xzksjlist/9879.html</find>
       <find>crawler</find>
+      <find>这个网站有点东西</find>
+      <find>errorNew</find>
+      <find>http://www.jztest.com/xzksjlist/9879.html</find>
+      <find>www.jztest.com</find>
+      <find>getTitle</find>
+      <find>www.jm175.com</find>
+      <find>FurlsWR</find>
+      <find>www.1616n.com</find>
+      <find>845902.shtml</find>
+      <find>742932</find>
+      <find>de('utf-8'))</find>
+      <find>dingTalkSend</find>
+      <find>r</find>
+      <find>cyyl</find>
+      <find>灵性</find>
+      <find>print</find>
+      <find>i</find>
+      <find>https://www.kmway.com/project/fzxb/x/</find>
+      <find>https://www.kmway.com/project/bhls/bld/583828.shtml</find>
+      <find>kmway</find>
+      <find>title</find>
+      <find>jm175</find>
+      <find>1616n</find>
+      <find>51xinsheng</find>
+      <find>Jcjm88</find>
     </findStrings>
     <replaceStrings>
       <replace>self.driver</replace>
       <replace>https://www.51xinsheng.com</replace>
       <replace>www.51xinsheng.com</replace>
-      <replace>51xinsheng</replace>
       <replace>http://www.jztest.com</replace>
+      <replace>www.kmway.com</replace>
+      <replace>kmwayWR</replace>
+      <replace>www.jm175.cn</replace>
+      <replace>jm175</replace>
+      <replace>jcjm88</replace>
+      <replace>kmway</replace>
+      <replace>1616n</replace>
+      <replace>51xinsheng</replace>
+      <replace>jztest</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\liubo\AppData\Local\Programs\Python\Python37\Lib\site-packages\itsdangerous-1.1.0.dist-info</dir>
@@ -258,16 +201,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/flaskMock/testServerAPi.py" />
-        <option value="$PROJECT_DIR$/flaskMock/testRE.py" />
-        <option value="$PROJECT_DIR$/decorate/propery.py" />
-        <option value="$PROJECT_DIR$/decorate/classmethod.py" />
-        <option value="$PROJECT_DIR$/testMsgsub.py" />
-        <option value="$PROJECT_DIR$/uiAutocase/kamayleaMsg.py" />
-        <option value="$PROJECT_DIR$/tooLpackage/iding.py" />
-        <option value="$PROJECT_DIR$/regexFuc/beatuifulSoup.py" />
-        <option value="$PROJECT_DIR$/regexFuc/test.py" />
-        <option value="$PROJECT_DIR$/regexFuc/qta-report.js" />
         <option value="$PROJECT_DIR$/timeFun.py" />
         <option value="$PROJECT_DIR$/timeFun/time.py" />
         <option value="$PROJECT_DIR$/uiAutocase/uitest.py" />
@@ -297,17 +230,27 @@
         <option value="$PROJECT_DIR$/dead-links-crawler-master/html_doc.py" />
         <option value="$PROJECT_DIR$/dead-links-crawler-master/crawler.py" />
         <option value="$PROJECT_DIR$/decorate/test3.py" />
-        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tempfile.py" />
-        <option value="$PROJECT_DIR$/crawl/test1.py" />
         <option value="$PROJECT_DIR$/uiAutocase/test.py" />
         <option value="$PROJECT_DIR$/crawl/FurlsWR2019.09.27.txt" />
         <option value="$PROJECT_DIR$/crawl/Furls.txt" />
         <option value="$PROJECT_DIR$/pythonMagic/dowloadBbying.py" />
         <option value="$PROJECT_DIR$/crawl/FurlsWR2019.09.29.txt" />
-        <option value="$PROJECT_DIR$/crawl/test3.py" />
-        <option value="$PROJECT_DIR$/crawl/51xingsheng.py" />
-        <option value="$PROJECT_DIR$/crawl/test2.py" />
         <option value="$PROJECT_DIR$/crawl/FurlsWR2019.09.30.txt" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tempfile.py" />
+        <option value="$PROJECT_DIR$/crawl/FurlsWR2019.10.08.txt" />
+        <option value="$PROJECT_DIR$/crawl/test2.py" />
+        <option value="$PROJECT_DIR$/crawl/jm175WR2019.10.09.txt" />
+        <option value="$PROJECT_DIR$/crawl/test3.py" />
+        <option value="$PROJECT_DIR$/phoneNumber.py" />
+        <option value="$PROJECT_DIR$/crawl/test1.py" />
+        <option value="$PROJECT_DIR$/crawl/kmwayWR2019.10.12.txt" />
+        <option value="$PROJECT_DIR$/crawl/1616n2019.10.15.txt" />
+        <option value="$PROJECT_DIR$/crawl/FurlsWR2019.10.15.txt" />
+        <option value="$PROJECT_DIR$/crawl/jcjm88.py" />
+        <option value="$PROJECT_DIR$/crawl/jm175Line.py" />
+        <option value="$PROJECT_DIR$/crawl/kmsayLine.py" />
+        <option value="$PROJECT_DIR$/crawl/1616line.py" />
+        <option value="$PROJECT_DIR$/crawl/51xingsheng.py" />
         <option value="$PROJECT_DIR$/crawl/test3CHange.py" />
       </list>
     </option>
@@ -320,9 +263,8 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
-    <option name="y" value="-7" />
-    <option name="width" value="1295" />
-    <option name="height" value="695" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -332,6 +274,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -347,12 +290,42 @@
             <path>
               <item name="test1" type="b2602c69:ProjectViewProjectNode" />
               <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="croquemort-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="dead-links-crawler-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
               <item name="deadfind" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test1" type="b2602c69:ProjectViewProjectNode" />
               <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="deadLInkFind" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="decorate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
               <item name="pythonMagic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="random" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test1" type="b2602c69:ProjectViewProjectNode" />
@@ -368,7 +341,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -403,7 +375,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dowloadBbying">
+  <component name="RunManager" selected="Python.test3CHange">
+    <configuration name="1616line" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl/1616line.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="51xingsheng" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -426,29 +420,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dowloadBbying" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="test1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonMagic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonMagic/dowloadBbying.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="jcjm88" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -461,7 +433,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl/test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl/jcjm88.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -470,7 +442,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="kmsayLine" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -483,7 +455,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl/test3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl/kmsayLine.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -516,11 +488,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dowloadBbying" />
         <item itemvalue="Python.test3CHange" />
-        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.1616line" />
         <item itemvalue="Python.51xingsheng" />
-        <item itemvalue="Python.test3 (1)" />
+        <item itemvalue="Python.kmsayLine" />
+        <item itemvalue="Python.jcjm88" />
       </list>
     </recent_temporary>
   </component>
@@ -561,7 +533,9 @@
       <workItem from="1568872203343" duration="578000" />
       <workItem from="1569201602012" duration="9909000" />
       <workItem from="1569494474867" duration="3269000" />
-      <workItem from="1569497766101" duration="57354000" />
+      <workItem from="1569497766101" duration="66741000" />
+      <workItem from="1570604011578" duration="14844000" />
+      <workItem from="1570760551532" duration="57748000" />
     </task>
     <task id="LOCAL-00001" summary="我不知道试用期是否能过，也担心在这里呆着浪费时间">
       <created>1561022397875</created>
@@ -577,13 +551,17 @@
       <option name="project" value="LOCAL" />
       <updated>1568599953356</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="pythonMagic byingpic dowloand">
+      <created>1569836086662</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569836086662</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_kamayleaMsg_AppDynamicsJob_test_app_dynamics_job - 2019.08.05 at 13h 50m 38s.xml">
-      <configuration name="Unittests for kamayleaMsg.AppDynamicsJob.test_app_dynamics_job" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_kamayleaMsg_AppDynamicsJob_test_app_dynamics_job - 2019.08.05 at 13h 51m 10s.xml">
       <configuration name="Unittests for kamayleaMsg.AppDynamicsJob.test_app_dynamics_job" configurationId="tests" />
     </history-entry>
@@ -611,9 +589,12 @@
     <history-entry file="Unittests_for_test5_AppDynamicsJob - 2019.09.05 at 17h 51m 36s.xml">
       <configuration name="Unittests for test5.AppDynamicsJob" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_kamayleaMsg_AppDynamicsJob - 2019.10.10 at 12h 09m 31s.xml">
+      <configuration name="Unittests for kamayleaMsg.AppDynamicsJob" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="408621000" />
+    <option name="totallyTimeSpent" value="490600000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -626,18 +607,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.116204694" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.195629" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49626866" visible="true" weight="0.31344903" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49626866" visible="true" weight="0.27548808" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39696312" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286334" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
@@ -709,7 +689,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/crawl/test2.py</url>
-          <line>206</line>
+          <line>207</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -722,6 +702,16 @@
           <line>292</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/crawl/kmsayLine.py</url>
+          <line>122</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/crawl/1616line.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -732,9 +722,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/test1$1_2_FirstStep.coverage" NAME="1.2 FirstStep Coverage Results" MODIFIED="1560254126090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/django" />
-    <SUITE FILE_PATH="coverage/test1$tempfile.coverage" NAME="tempfile Coverage Results" MODIFIED="1569500842389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" />
+    <SUITE FILE_PATH="coverage/test1$tempfile.coverage" NAME="tempfile Coverage Results" MODIFIED="1569836464415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" />
     <SUITE FILE_PATH="coverage/test1$Unittests_for_test5_AppDynamicsJob.coverage" NAME="Unittests for test5.AppDynamicsJob Coverage Results" MODIFIED="1567677084873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test1$Unittests_for_kamayleaMsg_AppDynamicsJob.coverage" NAME="Unittests for kamayleaMsg.AppDynamicsJob Coverage Results" MODIFIED="1564986442995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uiAutocase" />
+    <SUITE FILE_PATH="coverage/test1$Unittests_for_kamayleaMsg_AppDynamicsJob.coverage" NAME="Unittests for kamayleaMsg.AppDynamicsJob Coverage Results" MODIFIED="1570680565520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uiAutocase" />
     <SUITE FILE_PATH="coverage/test1$iding.coverage" NAME="iding Coverage Results" MODIFIED="1565169657480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tooLpackage" />
     <SUITE FILE_PATH="coverage/test1$webSaasPressure.coverage" NAME="webSaasPressure Coverage Results" MODIFIED="1560244116179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test1$Unittests_for_testUnit_MockLoginTest.coverage" NAME="Unittests for testUnit.MockLoginTest Coverage Results" MODIFIED="1560907343050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -746,202 +736,176 @@
     <SUITE FILE_PATH="coverage/test1$test123.coverage" NAME="test123 Coverage Results" MODIFIED="1568599067252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexFuc" />
     <SUITE FILE_PATH="coverage/test1$praitse.coverage" NAME="praitse Coverage Results" MODIFIED="1561021439020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test1$Unittests_for_testUnit_MockLoginTest_test_login.coverage" NAME="Unittests for testUnit.MockLoginTest.test_login Coverage Results" MODIFIED="1560906948395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test1$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1569487323804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorate" />
+    <SUITE FILE_PATH="coverage/test1$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1570671690363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
     <SUITE FILE_PATH="coverage/test1$testRE.coverage" NAME="testRE Coverage Results" MODIFIED="1561097132502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flaskMock" />
     <SUITE FILE_PATH="coverage/test1$propery.coverage" NAME="propery Coverage Results" MODIFIED="1561102170232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorate" />
     <SUITE FILE_PATH="coverage/test1$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1565233458490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexFuc" />
     <SUITE FILE_PATH="coverage/test1$test3__1_.coverage" NAME="test3 (1) Coverage Results" MODIFIED="1569719975807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
     <SUITE FILE_PATH="coverage/test1$oneStep.coverage" NAME="oneStep Coverage Results" MODIFIED="1567415810255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorate" />
+    <SUITE FILE_PATH="coverage/test1$kmsayLine.coverage" NAME="kmsayLine Coverage Results" MODIFIED="1571125398130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
     <SUITE FILE_PATH="coverage/test1$yield.coverage" NAME="yield Coverage Results" MODIFIED="1567761547877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test1$thearding.coverage" NAME="thearding Coverage Results" MODIFIED="1561023200962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test1$thearding.coverage" NAME="thearding Coverage Results" MODIFIED="1569836457644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test1$1616line.coverage" NAME="1616line Coverage Results" MODIFIED="1571131388418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
     <SUITE FILE_PATH="coverage/test1$Unittests_in_testUnit_py.coverage" NAME="Unittests in testUnit.py Coverage Results" MODIFIED="1560907083405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test1$crawl.coverage" NAME="crawl Coverage Results" MODIFIED="1569486345793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deadLInkFind" />
     <SUITE FILE_PATH="coverage/test1$run.coverage" NAME="run Coverage Results" MODIFIED="1561096682316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flaskMock" />
     <SUITE FILE_PATH="coverage/test1$timeCount.coverage" NAME="timeCount Coverage Results" MODIFIED="1567405053456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorate" />
     <SUITE FILE_PATH="coverage/test1$pratise1.coverage" NAME="pratise1 Coverage Results" MODIFIED="1567152105452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/retryLib" />
     <SUITE FILE_PATH="coverage/test1$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1568014489214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test1$jcjm88.coverage" NAME="jcjm88 Coverage Results" MODIFIED="1571121087392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
     <SUITE FILE_PATH="coverage/test1$conenct.coverage" NAME="conenct Coverage Results" MODIFIED="1567576347065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql" />
     <SUITE FILE_PATH="coverage/test1$getIDJINjiaMobile.coverage" NAME="getIDJINjiaMobile Coverage Results" MODIFIED="1560937719543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uiAutocase" />
     <SUITE FILE_PATH="coverage/test1$uitest.coverage" NAME="uitest Coverage Results" MODIFIED="1565341302259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uiAutocase" />
     <SUITE FILE_PATH="coverage/test1$pratisePython.coverage" NAME="pratisePython Coverage Results" MODIFIED="1561097266616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test1$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1567156279212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test1$checkDeadline.coverage" NAME="checkDeadline Coverage Results" MODIFIED="1564562041112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tooLpackage" />
-    <SUITE FILE_PATH="coverage/test1$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1569553105682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
+    <SUITE FILE_PATH="coverage/test1$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1570672119954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
     <SUITE FILE_PATH="coverage/test1$Unittests_in_kamayleaMsg_py.coverage" NAME="Unittests in kamayleaMsg.py Coverage Results" MODIFIED="1564984429152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uiAutocase" />
     <SUITE FILE_PATH="coverage/test1$webSaasAutoUI.coverage" NAME="webSaasAutoUI Coverage Results" MODIFIED="1557910146696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test1$test.coverage" NAME="test Coverage Results" MODIFIED="1569555039040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uiAutocase" />
+    <SUITE FILE_PATH="coverage/test1$test.coverage" NAME="test Coverage Results" MODIFIED="1570528733462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random" />
     <SUITE FILE_PATH="coverage/test1$test11.coverage" NAME="test11 Coverage Results" MODIFIED="1568613172806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blockChain" />
+    <SUITE FILE_PATH="coverage/test1$phoneNumber.coverage" NAME="phoneNumber Coverage Results" MODIFIED="1570680064168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test1$chatbot.coverage" NAME="chatbot Coverage Results" MODIFIED="1565168982222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/dingtalkchatbot" />
     <SUITE FILE_PATH="coverage/test1$beatuifulSoup.coverage" NAME="beatuifulSoup Coverage Results" MODIFIED="1565232568365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexFuc" />
     <SUITE FILE_PATH="coverage/test1$re.coverage" NAME="re Coverage Results" MODIFIED="1560915462517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flaskMock" />
     <SUITE FILE_PATH="coverage/test1$time.coverage" NAME="time Coverage Results" MODIFIED="1565255508897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timeFun" />
     <SUITE FILE_PATH="coverage/test1$decora.coverage" NAME="decora Coverage Results" MODIFIED="1560762524582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test1$mock.coverage" NAME="mock Coverage Results" MODIFIED="1560861263955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test1$jm175Line.coverage" NAME="jm175Line Coverage Results" MODIFIED="1571033451947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
     <SUITE FILE_PATH="coverage/test1$getIDJINjia.coverage" NAME="getIDJINjia Coverage Results" MODIFIED="1560937263235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uiAutocase" />
     <SUITE FILE_PATH="coverage/test1$Unittests_for_kamayleaMsg_AppDynamicsJob_test_app_dynamics_job.coverage" NAME="Unittests for kamayleaMsg.AppDynamicsJob.test_app_dynamics_job Coverage Results" MODIFIED="1564984386713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uiAutocase" />
     <SUITE FILE_PATH="coverage/test1$sqlConnect.coverage" NAME="sqlConnect Coverage Results" MODIFIED="1561009568930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flaskMock" />
-    <SUITE FILE_PATH="coverage/test1$test3CHange.coverage" NAME="test3CHange Coverage Results" MODIFIED="1569833500193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
+    <SUITE FILE_PATH="coverage/test1$test3CHange.coverage" NAME="test3CHange Coverage Results" MODIFIED="1571131696372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
     <SUITE FILE_PATH="coverage/test1$strdel.coverage" NAME="strdel Coverage Results" MODIFIED="1566177509173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
     <SUITE FILE_PATH="coverage/test1$super.coverage" NAME="super Coverage Results" MODIFIED="1561028800328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test1$api.coverage" NAME="api Coverage Results" MODIFIED="1566976401668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/japronto" />
     <SUITE FILE_PATH="coverage/test1$classmethod.coverage" NAME="classmethod Coverage Results" MODIFIED="1561111177511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decorate" />
-    <SUITE FILE_PATH="coverage/test1$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1569833052290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
+    <SUITE FILE_PATH="coverage/test1$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1570500309585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
     <SUITE FILE_PATH="coverage/test1$superTest.coverage" NAME="superTest Coverage Results" MODIFIED="1561023299956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test1$dowloadBbying.coverage" NAME="dowloadBbying Coverage Results" MODIFIED="1569835597740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonMagic" />
+    <SUITE FILE_PATH="coverage/test1$dowloadBbying.coverage" NAME="dowloadBbying Coverage Results" MODIFIED="1571119241383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonMagic" />
     <SUITE FILE_PATH="coverage/test1$exampleSimply.coverage" NAME="exampleSimply Coverage Results" MODIFIED="1560911462632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flaskMock" />
     <SUITE FILE_PATH="coverage/test1$testSubmti.coverage" NAME="testSubmti Coverage Results" MODIFIED="1560915156454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test1$51xingsheng.coverage" NAME="51xingsheng Coverage Results" MODIFIED="1569752169334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
+    <SUITE FILE_PATH="coverage/test1$51xingsheng.coverage" NAME="51xingsheng Coverage Results" MODIFIED="1571127630492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
     <SUITE FILE_PATH="coverage/test1$PythonwxTest.coverage" NAME="PythonwxTest Coverage Results" MODIFIED="1560851955061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dead-links-crawler-master/crawler.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="29" column="26" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="26" />
-          <folding>
-            <element signature="e#99#109#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="174">
+          <caret line="896" selection-start-line="896" selection-end-line="896" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/requirements/develop.pip">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/http/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="446" selection-start-line="446" selection-end-line="446" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorate/classmethod.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/requirements/test.pip">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/requirements/install.pip">
+    <entry file="file://$PROJECT_DIR$/decorate/oneStep.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/croquemort/crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/croquemort/tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1888">
+        <state>
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/tasks.py">
+    <entry file="file://$PROJECT_DIR$/decorate/propery.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorate/test3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1866">
+        <state relative-caret-position="478">
+          <caret line="165" column="23" selection-start-line="165" selection-start-column="23" selection-end-line="165" selection-end-column="23" />
+          <folding>
+            <element signature="e#40#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorate/timeCount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/Furls.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonMagic/dowloadBbying.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/setup.py">
+    <entry file="file://$PROJECT_DIR$/uiAutocase/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="145" selection-start-line="145" selection-end-line="145" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/praitse.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/docker-compose-persistent.yml">
+    <entry file="file://$PROJECT_DIR$/pratisePython.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/docker-compose.yml">
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-726">
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test5.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/croquemort/storages.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3010">
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/croquemort/migrations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3164">
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/croquemort/logger.py">
+    <entry file="file://$PROJECT_DIR$/test4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/croquemort/http.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/croquemort/decorators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/tests/test_urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1030">
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/tests/test_tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2306">
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/tests/test_storages.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/tests/utils.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/tests/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-722">
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/croquemort/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/testUnit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#46#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/croquemort-master/.circleci/config.yml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/thearding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testMsgsub.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -952,7 +916,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uiAutocase/webSaasAutoMobileUI.py">
+    <entry file="file://$PROJECT_DIR$/uiAutocase/getIDJINjiaMobile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -961,161 +925,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="389" selection-start-line="389" selection-end-line="389" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testUnit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test3.py">
+    <entry file="file://$PROJECT_DIR$/testfile">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/uiAutocase/geckodriver.log">
+    <entry file="file://$PROJECT_DIR$/yield.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tempfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uiAutocase/result.txt">
+    <entry file="file://$PROJECT_DIR$/tryExcept.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/sessions.py">
+    <entry file="file://$PROJECT_DIR$/uiAutocase/kamayleaMsg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="369" selection-start-line="369" selection-end-line="369" />
+        <state relative-caret-position="550">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/utils.py">
+    <entry file="file://$PROJECT_DIR$/dead-links-crawler-master/html_doc.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dead-links-crawler-master/url_opener.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dead-links-crawler-master/www.smm.cn.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dead-links-crawler-master/out.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dead-links-crawler-master/crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="809" selection-start-line="809" selection-end-line="809" />
+        <state relative-caret-position="-17" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dead-links-crawler-master/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/structures.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
+        <state relative-caret-position="-858" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/tldextract/tldextract.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/re.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
-          <caret line="236" selection-start-line="236" selection-end-line="236" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorate/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="165" column="23" selection-start-line="165" selection-start-column="23" selection-end-line="165" selection-end-column="23" />
-          <folding>
-            <element signature="e#40#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="1056" selection-start-line="1056" selection-end-line="1056" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uiAutocase/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3190">
-          <caret line="145" selection-start-line="145" selection-end-line="145" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawl/FurlsWR2019.09.27.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <caret line="222" selection-start-line="222" selection-end-line="222" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/request.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="352" selection-start-line="352" selection-end-line="352" />
+        <state relative-caret-position="185">
+          <caret line="382" selection-start-line="382" selection-end-line="382" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawl/Furls.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tooLpackage/iding.py">
+    <entry file="file://$PROJECT_DIR$/crawl/kmwayWR2019.10.11.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="22">
+          <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="99" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tooLpackage/checkDeadline.py">
+    <entry file="file://$PROJECT_DIR$/crawl/FurlsWR2019.10.09.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-151">
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawl/51xingsheng.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawl/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="290" column="23" selection-start-line="289" selection-start-column="5" selection-end-line="290" selection-end-column="23" />
-          <folding>
-            <element signature="e#264#275#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawl/FurlsWR2019.09.29.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawl/test1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-410">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        <state relative-caret-position="1210">
+          <caret line="103" column="48" selection-start-line="103" selection-start-column="48" selection-end-line="103" selection-end-column="48" />
           <folding>
             <element signature="e#45#54#0" expanded="true" />
           </folding>
@@ -1124,31 +1012,114 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crawl/test2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="311" column="34" lean-forward="true" selection-start-line="311" selection-start-column="34" selection-end-line="311" selection-end-column="34" />
+        <state relative-caret-position="60016">
+          <caret line="307" column="14" selection-start-line="307" selection-start-column="14" selection-end-line="307" selection-end-column="14" />
           <folding>
             <element signature="e#264#275#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawl/FurlsWR2019.09.30.txt">
+    <entry file="file://$PROJECT_DIR$/crawl/jm175WR2019.10.09.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonMagic/dowloadBbying.py">
+    <entry file="file://$PROJECT_DIR$/crawl/kmwayWR2019.10.12.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/test3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state relative-caret-position="62">
+          <caret line="68" selection-start-line="68" selection-end-line="99" selection-end-column="25" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#264#275#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/Jcjm882019.10.15.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonwxTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phoneNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#2#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/1616n2019.10.15.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/FurlsWR2019.10.15.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/jcjm88.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/jm175Line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+          <folding>
+            <element signature="e#264#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/kmsayLine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+          <folding>
+            <element signature="e#264#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/1616line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="354" selection-start-line="354" selection-end-line="359" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/51xingsheng.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2332">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawl/test3CHange.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="208" column="16" lean-forward="true" selection-start-line="208" selection-start-column="16" selection-end-line="208" selection-end-column="16" />
+        <state relative-caret-position="304">
+          <caret line="119" column="53" lean-forward="true" selection-start-line="119" selection-start-column="53" selection-end-line="119" selection-end-column="53" />
           <folding>
             <element signature="e#264#275#0" expanded="true" />
           </folding>

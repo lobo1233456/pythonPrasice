@@ -13,22 +13,23 @@ import re
 import time
 import requests
 from bs4 import BeautifulSoup
+from urllib import request
 from urllib import error
 
 kv = {
-    'HOST': "www.51xinsheng.com",
+    'HOST': "www.kmway.com",
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36',
 }
 
 # 此测试首页是否可以链接
 def url_get(num_retries=5):
     #    url = input("请输入要爬取的首页url:")
-    url = "https://www.51xinsheng.com/"
+    url = "https://www.kmway.com"
     #    url = "http://"
     try:
         # 做一个user-agent模拟浏览器发送请求,也可以加入其它字段
         kv = {
-            'HOST':"https://www.51xinsheng.com",
+            'HOST':"https://www.kmway.com",
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36'}
         enp  =requests.get(url, headers=kv)
         # print(enp.status_code)
@@ -44,7 +45,7 @@ def url_get(num_retries=5):
 def spiderpage(url):
     try:
         kv = {
-            'HOST': "www.51xinsheng.com",
+            'HOST': "www.kmway.com",
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36'}
         r = requests.get(url, headers=kv)
         # print(r.status_code)
@@ -53,7 +54,7 @@ def spiderpage(url):
         # 正则表达式表示要爬取的是<a href="和"中的内容,"或'都可以,即当前页面下所有的链接url,返回列表
         pagelinks = re.findall(r'(?<=<a href=\").*?(?=\")|(?<=href=\').*?(?=\')', pagetext)
         # print(pagelinks)
-        pagelinks = [x for x in pagelinks if "51xinsheng" in x]
+        pagelinks = [x for x in pagelinks if "kmway" in x]
         return pagelinks
     except:
         pagelinks = ['http://']
@@ -65,10 +66,9 @@ def spiderpage(url):
 # 外网链接不应该被发送至dingding，只发送死链接
 # 判断依据为title是404页面
 def getTitle(url):
-
     # 检验是否为本站链接，防止死循环爬取，如链接跳出本站则不进行操作
     headers = {
-        'HOST': "www.51xinsheng.com",
+        'HOST': "www.kmway.com",
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36',
     }
     print(url)
@@ -87,17 +87,18 @@ def getTitle(url):
                 return "这网站没有灵性1"
         #    except error.URLError or error.HTTPError or error.UnicodeDecodeError:
     except:
-        if '51xinsheng' in url:
+        if 'kmway' in url:
             dingTalkSend(url)
-            file = open('51xinsheng%s.txt' % time.strftime("%Y.%m.%d"), 'a', encoding='utf8')
+            file = open('kmway%s.txt' % time.strftime("%Y.%m.%d"), 'a', encoding='utf8')
             file.write(f'{url}\n')
             print("这网站没有灵性")
             return "不可加载"
 
+    # 正则删选函数
+
 
 def url_filtrate(pagelinks):
     same_target_url = []
-
     try:
         for murl in pagelinks:
             murl = re.sub(r'\s+', '', murl)
@@ -110,33 +111,73 @@ def url_filtrate(pagelinks):
             elif re.findall("^http", murl) and re.findall("newchinalife", murl) is None:
                 pagelinks.remove(murl)
 
-            elif re.findall("^http", murl):
+            elif len(re.findall("^http", murl)) != 0:
                 murl = str(murl)
                 same_target_url.append(murl)
-
+                continue
             elif re.findall("^java", murl) or re.findall("^jse", murl) or re.findall("^ALL", murl) or re.findall("pdf$",
                                                                                                                  murl) or re.findall(
                     "^login", murl):
                 pagelinks.remove(murl)
 
-            elif re.findall("gsp$", murl) or re.findall("shtml$", murl) or re.findall("[0-9]*$", murl):
-                murl = "https://www.51xingsheng.com" + str(murl)
+            elif len(re.findall("gsp$", murl))!= 0 or len(re.findall("[0-9]$", murl)) != 0:
+                print(len(re.findall("[0-9]$", murl)) != 0)
+                print(re.findall("gsp$", murl)!= 0)
+                murl = str(murl)
                 same_target_url.append(murl)
-
-            elif re.findall("^/", murl):
-                murl = "https://www.51xingsheng.com" + str(murl)
-                same_target_url.append(murl)
+                pass
+            #
+            #
+            elif re.findall("shtml$", murl) is not None or len(re.findall("^//", murl))!=0:
+                base = "https://www.kmway.com/"
+                # for i in pagelinks:
+                try:
+                    second_path = re.findall("//(.*?).kmway.com/", murl)
+                    if "/kf5fyw.shtml" in murl:
+                        murl = base + second_path[0] + "/kf5fyw.shtml"
+                        same_target_url.append(murl)
+                    elif "/6auh1i.shtml" in murl:
+                        murl = base + second_path[0] + "/kf5fyw.shtml"
+                        same_target_url.append(murl)
+                    elif "/wzzq/" in murl and "com/wzzq/" not in murl:
+                        enp = re.findall("com/(.*?)/wzzq/(.*)", murl)
+                        murl = base + "project/" + second_path[0] + "/" + enp[0][0] + "/wzzq/" + enp[0][1]
+                        same_target_url.append(murl)
+                    elif "com/wzzq/" in murl:
+                        enp = re.findall("com/wzzq/(.*)", murl)
+                        murl = base + second_path[0] + "/wzzq/" + enp[0]
+                        same_target_url.append(murl)
+                    elif "/article/" in murl:
+                        enp = re.findall("/article/(.*)", murl)
+                        murl = base + "article/" + second_path[0] + "/" + enp[0]
+                        same_target_url.append(murl)
+                    elif ".shtml" in murl and "/kf5fyw.shtml" not in murl and "/6auh1i.shtml" not in murl and '/' in str(
+                            re.findall("com/(.*?).shtml", murl)):
+                        enp = re.findall("com/(.*\.shtml)$", murl)
+                        # print(murl,enp)
+                        murl = base + "project/" + second_path[0] + "/" + enp[0]
+                        same_target_url.append(murl)
+                    elif "//www.kmway.com" == murl:
+                        murl = base
+                        same_target_url.append(murl)
+                    else:
+                        print("意外"+murl)
+                        enp = re.findall("com/(.*)", murl)
+                        murl = base + second_path[0] + "/" + enp[0]
+                        same_target_url.append(murl)
+                except ValueError as e:
+                    pass
 
             else:
                 pass
     except ValueError as e:
         pass
     # 去除重复url
-    unrepect_url = []
-    for l in same_target_url:
-        if l not in unrepect_url:
-            unrepect_url.append(l)
-
+    # unrepect_url = []
+    unrepect_url = list(set(same_target_url))
+    # for l in same_target_url:
+    #     if l not in unrepect_url:
+    #         unrepect_url.append(l)
     # print(unrepect_url)
     return unrepect_url
 
@@ -222,13 +263,13 @@ class Spider():
                 error.append(visitedurl)
                 # dingTalkSend(visitedurl)
 
-                file = open('51xinshengWR%s.txt' % self.local, 'a', encoding='utf8')
+                file = open('kmwayWR%s.txt' % self.local, 'a', encoding='utf8')
                 file.write(f'{visitedurl}\n')
                 file.close()
             if title_m == "404页面":
                 # error.append(url_m)
                 # dingTalkSend(url_m)
-                file = open('51xinshengWR%s.txt' % self.local, 'a', encoding='utf8')
+                file = open('kmwayWR%s.txt' % self.local, 'a', encoding='utf8')
                 file.write(f'{url_m}\n')
                 file.close()
             # if re.findall("家居室内装修设计_装修设计公司_星装网", title):  # 如果跳出本站则pass
@@ -247,7 +288,7 @@ class Spider():
             # else:
             #     pass
 
-        print(f"于%s爬完了"%time.strftime("%Y.%m.%d"))
+        print(f"爬完了")
         if len(error) != 0:
             for errorline in error:
                 wrongSecondLine = [i for i, x in enumerate(ThescondLIne) if errorline in x]
@@ -258,15 +299,14 @@ class Spider():
                     wrongSource.append(source[i])
                 # print(D)
                 # 记录错误的地址，和他的一级地址
-                strmsg = "51xinsheng死链：%s  的所有上级目录" % errorline, wrongSource
+                strmsg = "kmway死链：%s  的所有上级目录" % errorline, wrongSource
                 dingTalkSend(strmsg)
 
-                file = open('51xinshengWR%s.txt' % self.local, 'a', encoding='utf8')
+                file = open('kmwayWR%s.txt' % self.local, 'a', encoding='utf8')
                 file.write(f'{strmsg}\n')
                 file.close()
 
         return self.linkQuence.visited
-
 
 def dingTalkSend(content):
     '''
@@ -311,8 +351,12 @@ def writetofile(urllist):
 
 # 主循环
 if __name__ == '__main__':
-    url = url_get()
-    spider = Spider(url)
-    # 传入要爬取的子链接数量
-    urllist = spider.crawler(5000)
-    writetofile(urllist)
+    # url = url_get()
+    # spider = Spider(url)
+    # # 传入要爬取的子链接数量
+    # urllist = spider.crawler(5000)
+    # writetofile(urllist)
+    url_filtrate(["//zj.1616n.com/857288.shtml"])
+    print()
+
+
